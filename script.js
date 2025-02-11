@@ -54,16 +54,17 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "sure ka?",
+    "sure na sure??",
+    "ayaw mo?",
+    "bruhh pleasee",
+    "okay ulitin natin",
+    "pwede baa kita maging valentine",
+    "pwede ba...",
+    "okay lang naman...",
+    "Ok ge na,okay lang...",
+    "joke lang,can you be my valentine? ❤️"
+    
 ];
 
 let messageIndex = 0;

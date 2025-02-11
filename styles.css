@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f9e3e3;
+    background-color: #ff6600;
     font-family: 'Arial', sans-serif;
     flex-direction: column;
   }
@@ -36,7 +36,7 @@ body {
   .no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #f44336;
+    background-color: #ff1100;
     color: white;
     border: none;
     border-radius: 5px;
